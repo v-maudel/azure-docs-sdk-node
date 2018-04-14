@@ -12,6 +12,15 @@
       },
       {
         "files": [
+          "**/toc.md",
+          "**/toc.yml"
+        ],
+        "src" : "docs-ref-autogen-ts",
+        "dest": "api/azure_ts_ref_toc",
+        "version": "azure-node-latest"
+      },
+      {
+        "files": [
           "**/*.md",
           "**/*.yml"
         ],
@@ -29,6 +38,19 @@
           "**/*.yml"
         ],
         "src": "docs-ref-autogen",
+        "dest": "api",
+        "version": "azure-node-latest",
+        "exclude": [
+          "**/*..yml",
+          "*/toc.yml"
+        ]
+      },
+      {
+        "files": [
+          "**/*.md",
+          "**/*.yml"
+        ],
+        "src": "docs-ref-autogen-ts",
         "dest": "api",
         "version": "azure-node-latest",
         "exclude": [
