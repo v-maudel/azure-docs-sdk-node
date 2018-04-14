@@ -15,7 +15,7 @@
           "**/toc.md",
           "**/toc.yml"
         ],
-        "src" : "docs-ref-autogen-ts",
+        "src" : "docs-ref-autogen-ts/docs-ref-autogen",
         "dest": "api/azure_ts_ref_toc",
         "version": "azure-node-latest"
       },
@@ -50,7 +50,7 @@
           "**/*.md",
           "**/*.yml"
         ],
-        "src": "docs-ref-autogen-ts",
+        "src": "docs-ref-autogen-ts/docs-ref-autogen",
         "dest": "api",
         "version": "azure-node-latest",
         "exclude": [
