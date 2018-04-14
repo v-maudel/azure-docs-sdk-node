@@ -1,0 +1,13 @@
+### YamlMime:UniversalReference
+items:
+  - uid: azure-iot-device-mqtt
+    name: azure-iot-device-mqtt
+    langs:
+      - js
+    type: package
+    summary: ''
+    children:
+      - 'azure-iot-device-mqtt.module:azure-iot-device-mqtt.Mqtt'
+references:
+  - uid: 'azure-iot-device-mqtt.module:azure-iot-device-mqtt.Mqtt'
+    name: Mqtt

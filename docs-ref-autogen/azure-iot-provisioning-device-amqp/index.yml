@@ -1,0 +1,13 @@
+### YamlMime:UniversalReference
+items:
+  - uid: azure-iot-device
+    name: azure-iot-device
+    langs:
+      - js
+    type: package
+    summary: ''
+    children:
+      - azure-iot-device.<anonymous>~Client
+references:
+  - uid: azure-iot-device.<anonymous>~Client
+    name: Client
