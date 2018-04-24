@@ -1,0 +1,46 @@
+### YamlMime:UniversalReference
+items:
+  - uid: botbuilder-ai.CompositeChild
+    name: CompositeChild
+    fullName: CompositeChild
+    children:
+      - botbuilder-ai.CompositeChild.type
+      - botbuilder-ai.CompositeChild.value
+    langs:
+      - typeScript
+    type: interface
+    summary: ''
+    source:
+      path: luisSchema.d.ts
+      startLine: 95
+      remote:
+        path: /libraries/botbuilder-ai/src\luisSchema.d.ts
+        repo: 'https://github.com/Microsoft/botbuilder-js'
+        branch: master
+    package: botbuilder-ai
+  - uid: botbuilder-ai.CompositeChild.type
+    name: type
+    fullName: type
+    children: []
+    langs:
+      - typeScript
+    type: property
+    summary: ''
+    syntax:
+      content: 'type: string'
+      return:
+        type:
+          - string
+  - uid: botbuilder-ai.CompositeChild.value
+    name: value
+    fullName: value
+    children: []
+    langs:
+      - typeScript
+    type: property
+    summary: ''
+    syntax:
+      content: 'value: string'
+      return:
+        type:
+          - string

@@ -1,0 +1,32 @@
+### YamlMime:UniversalReference
+items:
+  - uid: botbuilder-ai.LuisModel
+    name: LuisModel
+    fullName: LuisModel
+    children:
+      - botbuilder-ai.LuisModel.ModelID
+    langs:
+      - typeScript
+    type: interface
+    summary: ''
+    source:
+      path: luisRecognizer.ts
+      startLine: 20
+      remote:
+        path: /libraries/botbuilder-ai/src\luisRecognizer.ts
+        repo: 'https://github.com/Microsoft/botbuilder-js'
+        branch: master
+    package: botbuilder-ai
+  - uid: botbuilder-ai.LuisModel.ModelID
+    name: ModelID
+    fullName: ModelID
+    children: []
+    langs:
+      - typeScript
+    type: property
+    summary: ''
+    syntax:
+      content: 'ModelID: string'
+      return:
+        type:
+          - string

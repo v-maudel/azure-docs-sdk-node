@@ -1,0 +1,32 @@
+### YamlMime:UniversalReference
+items:
+  - uid: botbuilder-ai.TranslationResult
+    name: TranslationResult
+    fullName: TranslationResult
+    children:
+      - botbuilder-ai.TranslationResult.translatedText
+    langs:
+      - typeScript
+    type: interface
+    summary: ''
+    source:
+      path: languageTranslator.ts
+      startLine: 117
+      remote:
+        path: /libraries/botbuilder-ai/src\languageTranslator.ts
+        repo: 'https://github.com/Microsoft/botbuilder-js'
+        branch: master
+    package: botbuilder-ai
+  - uid: botbuilder-ai.TranslationResult.translatedText
+    name: translatedText
+    fullName: translatedText
+    children: []
+    langs:
+      - typeScript
+    type: property
+    summary: ''
+    syntax:
+      content: 'translatedText: string'
+      return:
+        type:
+          - string
