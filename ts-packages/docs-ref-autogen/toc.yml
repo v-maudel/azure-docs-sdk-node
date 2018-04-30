@@ -722,6 +722,75 @@
     - uid: botbuilder-azure.TableStorageSettings
       name: TableStorageSettings
       items: []
+- uid: botbuilder-dialogs
+  name: botbuilder-dialogs
+  items:
+    - uid: botbuilder-dialogs.AttachmentPrompt
+      name: AttachmentPrompt
+      items: []
+    - uid: botbuilder-dialogs.ChoicePrompt
+      name: ChoicePrompt
+      items: []
+    - uid: botbuilder-dialogs.ChoicePromptOptions
+      name: ChoicePromptOptions
+      items: []
+    - uid: botbuilder-dialogs.ConfirmPrompt
+      name: ConfirmPrompt
+      items: []
+    - uid: botbuilder-dialogs.DatetimePrompt
+      name: DatetimePrompt
+      items: []
+    - uid: botbuilder-dialogs.Dialog
+      name: Dialog
+      items: []
+    - uid: botbuilder-dialogs.DialogCompletion
+      name: DialogCompletion
+      items: []
+    - uid: botbuilder-dialogs.DialogContainer
+      name: DialogContainer
+      items: []
+    - uid: botbuilder-dialogs.DialogContext
+      name: DialogContext
+      items: []
+    - uid: botbuilder-dialogs.DialogInstance
+      name: DialogInstance
+      items: []
+    - uid: botbuilder-dialogs.DialogSet
+      name: DialogSet
+      items: []
+    - uid: botbuilder-dialogs.NumberPrompt
+      name: NumberPrompt
+      items: []
+    - uid: botbuilder-dialogs.OAuthPrompt
+      name: OAuthPrompt
+      items: []
+    - uid: botbuilder-dialogs.OAuthPromptSettingsWithTimeout
+      name: OAuthPromptSettingsWithTimeout
+      items: []
+    - uid: botbuilder-dialogs.OAuthPromptState
+      name: OAuthPromptState
+      items: []
+    - uid: botbuilder-dialogs.Prompt
+      name: Prompt
+      items: []
+    - uid: botbuilder-dialogs.PromptOptions
+      name: PromptOptions
+      items: []
+    - uid: botbuilder-dialogs.SkipStepFunction
+      name: SkipStepFunction
+      items: []
+    - uid: botbuilder-dialogs.TextPrompt
+      name: TextPrompt
+      items: []
+    - uid: botbuilder-dialogs.Waterfall
+      name: Waterfall
+      items: []
+    - uid: botbuilder-dialogs.WaterfallInstance
+      name: WaterfallInstance
+      items: []
+    - uid: botbuilder-dialogs.WaterfallStep
+      name: WaterfallStep
+      items: []
 - uid: botbuilder-prompts
   name: botbuilder-prompts
   items:
